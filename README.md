@@ -23,8 +23,8 @@ To get started with this project, follow these steps:
 
 3. Explore the Code:
 
-   - Navigate to the `index.ts` file to explore the Deno Edge Function responsible for handling authentication email requests.
-   - Review the SQL code in the `email_templates.sql` file, which defines the PostgreSQL functions and table structure for email templates.
+   - Navigate to the [`index.ts`](https://github.com/mansueli/Supabase-Edge-AuthMailer/blob/main/supabase/functions/auth-mailer/index.ts) file to explore the Deno Edge Function responsible for handling authentication email requests.
+   - Review the SQL code in the [`init.sql`](https://github.com/mansueli/Supabase-Edge-AuthMailer/blob/main/init.sql) file, which defines the PostgreSQL functions and table structure for email templates.
 
 ## Code Explanation
 
