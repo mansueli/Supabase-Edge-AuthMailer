@@ -1,6 +1,6 @@
 # Supabase-Edge-AuthMailer
 
-Welcome to the **Supabase-Edge-AuthMailer** repository! This repository contains the code and resources discussed in the blog post titled "Building a Custom Authentication Email System with Supabase Edge Functions, PostgreSQL, and Resend." You can read the full blog post [here](https://blog.mansueli.com/building-custom-authentication-email-system-supabase-edge-functions).
+Welcome to the **Supabase-Edge-AuthMailer** repository! This repository contains the code and resources discussed in the blog post titled "Building a Custom Authentication Email System with Supabase Edge Functions, PostgreSQL, and Resend." You can read the full blog post [here](https://blog.mansueli.com/creating-customized-i18n-ready-authentication-emails-using-supabase-edge-functions-postgresql-and-resend).
 
 ## Introduction
 
@@ -28,7 +28,7 @@ To get started with this project, follow these steps:
 
 ## Code Explanation
 
-For a detailed explanation of the code and its functionality, refer to the blog post: [Building a Custom Authentication Email System with Supabase Edge Functions, PostgreSQL, and Resend](https://blog.mansueli.com/building-custom-authentication-email-system-supabase-edge-functions).
+For a detailed explanation of the code and its functionality, refer to the blog post: [Building a Custom Authentication Email System with Supabase Edge Functions, PostgreSQL, and Resend]([https://blog.mansueli.com/building-custom-authentication-email-system-supabase-edge-functions](https://blog.mansueli.com/creating-customized-i18n-ready-authentication-emails-using-supabase-edge-functions-postgresql-and-resend).
 
 ## Additional Resources
 
