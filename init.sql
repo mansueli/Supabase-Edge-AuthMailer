@@ -32,6 +32,7 @@ BEGIN
 END;
 $BODY$
 LANGUAGE plpgsql;
+REVOKE EXECUTE ON FUNCTION get_email_template FROM public;
 REVOKE EXECUTE ON FUNCTION get_email_template FROM anon, authenticated;
 
 --
